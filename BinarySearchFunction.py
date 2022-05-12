@@ -2,6 +2,12 @@
 Grokking Algorithms - Binary Search Function
 Chapter 1. Introduction to Algorithms
 """
+"""
+Binary Search Example
+Grokking Algorithms
+Chapter 1 - Introduction to Algorithms
+"""
+
 
 def BinarySearch(data,item):
     low = 0 #first idx 
